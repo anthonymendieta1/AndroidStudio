@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Week</string>
+    <string name="BotonCheck">Check</string>
+    <string name="tv1">“What’s the Current Week Number?”</string>
+    <string name="BotonStarAgain">START AGAIN</string>
+    <string name="tv2">“Right!!”.</string>
+</resources>
